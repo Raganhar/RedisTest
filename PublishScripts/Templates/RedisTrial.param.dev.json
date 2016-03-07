@@ -1,0 +1,32 @@
+{
+  "siteName": {
+    "value": "redisfun"
+  },
+  "hostingPlanName": {
+    "value": "DevTest"
+  },
+  "siteLocation": {
+    "value": "North Europe"
+  },
+  "sku": {
+    "value": "Free"
+  },
+  "workerSize": {
+    "value": "0"
+  },
+  "serverName": {
+    "value": "uditestdb"
+  },
+  "serverLocation": {
+    "value": "North Europe"
+  },
+  "administratorLogin": {
+    "value": "developer"
+  },
+  "administratorLoginPassword": {
+    "value": "Password1"
+  },
+  "databaseName": {
+    "value": "redisfun_db"
+  }
+}
